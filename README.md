@@ -21,3 +21,4 @@ A Chrome extension that adds customizable animations to your mouse movements, gi
 ## Extra
 Any suggestions on improvements will be appreciated, thanks!
 I also go the icon from icons8.com
+Also made use of AI in making the extension work.
